@@ -11,7 +11,9 @@ body {
     font-family: 'Vollkorn', serif;
     margin: 0;
     padding: 0;
-    background: url("/img/minion.jpg") 100%;
+    background: url("yoda.jpg") 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #txt-input {
     box-sizing: border-box;
